@@ -4,7 +4,7 @@
 """Make an online library using class
 Methods To Be Defined -
 1. To display all the books
-2. To lend a book from a customer
+2. To lend a book to a customer
 3. To donate a book from a person
 4. To return a book from a customer
 Optional -
